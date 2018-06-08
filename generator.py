@@ -18,5 +18,3 @@ if __name__ == '__main__':
     print (next(ret))
     print (next(ret))
 
-    #ret = gen_value()
-    #print (ret, type(ret))   # 1 <type 'int'>
